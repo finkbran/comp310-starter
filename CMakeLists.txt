@@ -25,6 +25,7 @@ add_subdirectory(hello-lib)
 add_subdirectory(lwlog-lib)
 add_subdirectory(lwlog-demo)
 add_subdirectory(gtest-demo)
+add_subdirectory(WarmUp_1)
 add_subdirectory(WarmUp_10)
 
 
